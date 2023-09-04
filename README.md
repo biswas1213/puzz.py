@@ -1,7 +1,4 @@
-# CS50AI Week 1 - Knights
-
-
-## Task:
+# Romana Khatun
 
 Write a Model Checking algorithm to solve 'knights and knaves' logic puzzles.
 
