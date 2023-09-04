@@ -1,6 +1,3 @@
-# CS50AI Week 1 - Knights
-
-
 ## Task:
 
 Write a Model Checking algorithm to solve 'knights and knaves' logic puzzles.
